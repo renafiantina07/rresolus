@@ -1,2 +1,2 @@
-# rresolus
+# rresolusi
 Repository untuk belajar 
